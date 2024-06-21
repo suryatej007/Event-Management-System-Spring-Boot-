@@ -1,0 +1,228 @@
+
+Oct 10, 2023 10:27:32.626 NEW SESSION
+Oct 10, 2023 10:27:32.626 [10008:7252:1010/102732.625:ERROR:device_event_log_impl.cc(225)] [10:27:32.624] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 10, 2023 10:27:33.741 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 10, 2023 10:27:53.832 [10008:19504:1010/102753.830:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+
+Oct 11, 2023 13:04:59.894 NEW SESSION
+Oct 11, 2023 13:04:59.894 [13876:1480:1011/130459.891:ERROR:device_event_log_impl.cc(225)] [13:04:59.891] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 11, 2023 13:05:02.387 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 11, 2023 20:13:59.40 NEW SESSION
+Oct 11, 2023 20:13:59.40 [6464:14936:1011/201359.030:ERROR:device_event_log_impl.cc(225)] [20:13:59.030] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 11, 2023 20:14:16.05 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 11, 2023 20:47:00.337 [6464:11308:1011/204700.335:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 11, 2023 21:47:00.710 [6464:11308:1011/214700.708:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 11, 2023 22:47:01.64 [6464:11308:1011/224701.063:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 11, 2023 23:47:01.421 [6464:11308:1011/234701.418:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 11, 2023 23:50:35.722 [6464:14936:1011/235035.721:ERROR:CONSOLE(337)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (337)
+Oct 12, 2023 24:47:01.793 [6464:11308:1012/004701.780:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 12, 2023 01:17:02.31 [6464:11308:1012/011702.031:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 12, 2023 02:17:02.415 [6464:11308:1012/021702.413:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 12, 2023 03:17:02.784 [6464:11308:1012/031702.782:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 12, 2023 04:17:03.171 [6464:11308:1012/041703.167:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Oct 12, 2023 10:59:39.932 NEW SESSION
+Oct 12, 2023 10:59:39.933 [13372:11256:1012/105939.832:ERROR:device_event_log_impl.cc(225)] [10:59:39.831] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 12, 2023 10:59:40.836 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 12, 2023 11:00:12.783 [13372:12932:1012/110012.783:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 12, 2023 11:00:20.194 [13372:11256:1012/110020.193:ERROR:device_event_log_impl.cc(225)] [11:00:20.193] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Oct 12, 2023 11:04:48.480 NEW SESSION
+Oct 12, 2023 11:04:48.480 [9748:12916:1012/110448.478:ERROR:device_event_log_impl.cc(225)] [11:04:48.478] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 12, 2023 11:04:49.276 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 13, 2023 07:37:17.560 NEW SESSION
+Oct 13, 2023 07:37:17.560 [10356:6788:1013/073717.464:ERROR:device_event_log_impl.cc(225)] [07:37:17.463] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 13, 2023 07:37:18.113 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 13, 2023 07:49:01.91 [10356:6788:1013/074901.086:ERROR:CONSOLE(337)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (337)
+
+Oct 13, 2023 09:15:56.418 NEW SESSION
+Oct 13, 2023 09:15:56.419 [18536:4476:1013/091556.417:ERROR:device_event_log_impl.cc(225)] [09:15:56.416] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 13, 2023 09:15:57.249 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 13, 2023 14:29:58.281 NEW SESSION
+Oct 13, 2023 14:29:58.281 [17916:27932:1013/142958.280:ERROR:device_event_log_impl.cc(225)] [14:29:58.279] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 13, 2023 14:29:58.976 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 13, 2023 19:38:32.607 NEW SESSION
+Oct 13, 2023 19:38:32.607 [11860:9560:1013/193832.501:ERROR:device_event_log_impl.cc(225)] [19:38:32.500] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 13, 2023 19:38:33.375 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 13, 2023 20:17:18.302 [11860:11396:1013/201718.298:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 13, 2023 21:17:14.150 [11860:11396:1013/211714.149:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 13, 2023 21:17:19.110 [11860:11396:1013/211719.109:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 13, 2023 22:17:22.682 [11860:11396:1013/221722.680:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 13, 2023 22:17:24.344 [11860:11396:1013/221723.472:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Oct 14, 2023 09:07:52.863 NEW SESSION
+Oct 14, 2023 09:07:52.864 [12864:16312:1014/090752.860:ERROR:device_event_log_impl.cc(225)] [09:07:52.861] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 09:07:53.700 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 14, 2023 14:07:20.928 NEW SESSION
+Oct 14, 2023 14:07:20.928 [18436:14836:1014/140720.921:ERROR:device_event_log_impl.cc(225)] [14:07:20.921] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 14:07:22.20 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 15:35:49.719 [29144:25728:1014/153549.618:ERROR:device_event_log_impl.cc(225)] [15:35:49.617] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 15:35:50.848 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 15:38:38.705 [29144:25728:1014/153838.704:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Oct 14, 2023 21:34:18.374 NEW SESSION
+Oct 14, 2023 21:34:18.374 [39804:14052:1014/213418.368:ERROR:device_event_log_impl.cc(225)] [21:34:18.367] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 21:34:23.134 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 21:35:54.755 [39804:14052:1014/213554.647:ERROR:device_event_log_impl.cc(225)] [21:35:54.646] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 14, 2023 23:20:58.871 [39804:14052:1014/232058.865:ERROR:device_event_log_impl.cc(225)] [23:20:58.863] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 15, 2023 24:28:51.76 [39804:26512:1015/002658.366:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 15, 2023 24:28:52.793 [39804:26512:1015/002851.152:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2023 24:28:52.795 [39804:26512:1015/002852.682:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2023 24:29:22.579 [39804:26512:1015/002922.579:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 15, 2023 24:30:58.515 [39804:26512:1015/003058.513:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+
+Oct 15, 2023 02:15:14.476 NEW SESSION
+Oct 15, 2023 02:15:14.476 [25188:46604:1015/021514.471:ERROR:device_event_log_impl.cc(225)] [02:15:14.472] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 15, 2023 02:15:15.732 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 15, 2023 02:24:11.170 [25188:12724:1015/022411.169:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 15, 2023 02:31:00.575 [25188:12724:1015/023100.574:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 15, 2023 02:40:28.387 [25188:12724:1015/024028.386:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2023 02:51:32.136 [25188:46604:1015/025132.136:ERROR:interface_endpoint_client.cc(702)] Message 5 rejected by interface blink.mojom.WidgetHost
+Oct 15, 2023 03:34:49.583 [25188:12724:1015/033449.583:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 15, 2023 03:36:07.774 [25188:12724:1015/033607.773:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Oct 15, 2023 03:37:21.164 [25188:12724:1015/033721.164:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Oct 15, 2023 03:59:33.209 NEW SESSION
+Oct 15, 2023 03:59:33.209 [31944:40668:1015/035933.206:ERROR:device_event_log_impl.cc(225)] [03:59:33.207] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 15, 2023 03:59:34.556 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 15, 2023 04:48:15.463 NEW SESSION
+Oct 15, 2023 04:48:15.464 [40716:54176:1015/044815.348:ERROR:device_event_log_impl.cc(225)] [04:48:15.349] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 15, 2023 04:48:16.912 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 15, 2023 10:21:51.08 NEW SESSION
+Oct 15, 2023 10:21:51.08 [3452:18224:1015/102151.005:ERROR:device_event_log_impl.cc(225)] [10:21:51.005] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 15, 2023 10:21:51.754 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 15, 2023 11:21:27.281 [3452:3196:1015/112127.280:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 15, 2023 11:21:29.712 [3452:3196:1015/112128.692:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 15, 2023 11:31:05.828 [3452:3196:1015/113105.828:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 15, 2023 11:41:50.966 [3452:18224:1015/114150.964:ERROR:device_event_log_impl.cc(225)] [11:41:50.964] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 15, 2023 11:43:19.692 [3452:18224:1015/114319.692:ERROR:device_event_log_impl.cc(225)] [11:43:19.690] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Nov 03, 2023 20:38:27.213 NEW SESSION
+Nov 03, 2023 20:38:27.213 [43956:51552:1103/203827.211:ERROR:device_event_log_impl.cc(225)] [20:38:27.211] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 03, 2023 20:45:58.209 [43956:53284:1103/204558.208:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 03, 2023 20:50:24.684 [43956:51552:1103/205024.684:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Nov 03, 2023 21:36:25.420 [43956:53284:1103/213625.420:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 03, 2023 21:47:14.389 [43956:53284:1103/214714.389:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Nov 03, 2023 21:47:16.507 [43956:51552:1103/214716.506:ERROR:device_event_log_impl.cc(225)] [21:47:16.506] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Nov 04, 2023 09:55:50.451 NEW SESSION
+Nov 04, 2023 09:55:50.451 [62248:56824:1104/095550.450:ERROR:device_event_log_impl.cc(225)] [09:55:50.448] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 04, 2023 09:56:03.862 [62248:56824:1104/095603.862:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint (unset) for first_image_paint 0.058 s
+Nov 04, 2023 09:56:03.865 [62248:56824:1104/095603.864:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.058 s
+Nov 04, 2023 09:56:03.964 [62248:56824:1104/095603.962:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.058 s
+Nov 04, 2023 09:56:04.986 [62248:56824:1104/095604.986:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.162 s for first_image_paint 0.148 s
+Nov 04, 2023 09:56:05.230 [62248:56824:1104/095605.230:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint (unset) for first_image_paint 0.057 s
+Nov 04, 2023 09:56:27.356 [62248:56824:1104/095627.356:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint (unset) for first_image_paint 0.055 s
+Nov 04, 2023 09:56:27.461 [62248:56824:1104/095627.390:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 09:56:27.553 [62248:56824:1104/095627.552:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 09:56:28.156 [62248:56824:1104/095628.156:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:20:01.569 [62248:56824:1104/102001.569:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:20:01.704 [62248:56824:1104/102001.703:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:20:03.612 [62248:56824:1104/102003.611:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:20:03.753 [62248:56824:1104/102003.752:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:20:03.999 [62248:56824:1104/102003.998:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:20:04.123 [62248:56824:1104/102004.122:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:28:32.264 [62248:56824:1104/102832.262:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:28:32.383 [62248:56824:1104/102832.382:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:28:32.663 [62248:56824:1104/102832.662:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:28:32.787 [62248:56824:1104/102832.787:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:29:22.74 [62248:56824:1104/102922.073:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:29:22.182 [62248:56824:1104/102922.181:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:29:22.463 [62248:56824:1104/102922.461:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:29:23.904 [62248:56824:1104/102922.585:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:29:23.966 [62248:56824:1104/102923.966:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:29:27.488 [62248:56824:1104/102927.487:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:29:30.37 [62248:56824:1104/102930.037:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:29:31.888 [62248:56824:1104/102931.887:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:29:32.850 [62248:56824:1104/102932.850:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:29:34.390 [62248:56824:1104/102934.389:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:29:35.740 [62248:56824:1104/102935.740:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:29:37.688 [62248:56824:1104/102937.688:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:30:30.263 [62248:56824:1104/103030.262:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:30:30.377 [62248:56824:1104/103030.376:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:30:30.495 [62248:56824:1104/103030.495:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:30:32.196 [62248:56824:1104/103032.195:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:34:08.372 [62248:56824:1104/103408.371:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:34:09.109 [62248:56824:1104/103409.108:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:34:09.225 [62248:56824:1104/103409.224:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:34:10.612 [62248:56824:1104/103410.611:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:34:11.787 [62248:56824:1104/103411.787:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:34:12.991 [62248:56824:1104/103412.991:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:34:14.361 [62248:56824:1104/103414.361:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:34:15.694 [62248:56824:1104/103415.694:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 10:34:17.761 [62248:56824:1104/103417.760:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.07 s for first_image_paint 0.055 s
+Nov 04, 2023 11:04:55.21 [62248:56824:1104/110455.015:ERROR:CONSOLE(340)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (340)
+Nov 04, 2023 11:29:03.759 [62248:47864:1104/112903.756:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Nov 04, 2023 11:29:05.831 [62248:47864:1104/112905.830:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 04, 2023 11:29:12.184 [62248:47864:1104/112912.184:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 04, 2023 11:29:15.736 [62248:47864:1104/112915.735:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 04, 2023 11:29:51.233 [62248:47864:1104/112951.232:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2023 11:30:30.818 [62248:47864:1104/113030.818:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 04, 2023 11:31:00.517 [62248:47864:1104/113100.516:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 11:31:49.407 [62248:47864:1104/113149.407:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 04, 2023 11:31:53.842 [62248:47864:1104/113153.841:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Nov 04, 2023 13:59:57.638 NEW SESSION
+Nov 04, 2023 13:59:57.638 [67612:63168:1104/135957.637:ERROR:device_event_log_impl.cc(225)] [13:59:57.636] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 04, 2023 14:00:12.930 [67612:66524:1104/140012.928:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 04, 2023 14:00:56.810 [67612:66524:1104/140056.809:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 14:02:02.498 [67612:66524:1104/140202.498:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 14:03:21.616 [67612:66524:1104/140321.615:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 14:07:50.713 [67612:66524:1104/140750.712:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 14:13:02.220 [67612:66524:1104/141302.219:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Nov 04, 2023 14:23:24.648 [67612:66524:1104/142324.648:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 14:34:00.816 [67612:66524:1104/143400.815:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 04, 2023 14:44:31.675 [67612:66524:1104/144431.673:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 14:49:32.705 [67612:66524:1104/144932.703:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 04, 2023 14:49:57.576 [67612:66524:1104/144957.576:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 14:50:14.946 [67612:66524:1104/145014.946:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Nov 04, 2023 14:50:26.250 [67612:66524:1104/145026.249:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 04, 2023 14:50:56.53 [67612:66524:1104/145056.052:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 04, 2023 14:51:49.231 [67612:66524:1104/145149.231:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 04, 2023 15:12:07.511 [67612:63168:1104/151207.510:ERROR:CONSOLE(340)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (340)
+Nov 04, 2023 18:56:33.543 [67612:66524:1104/185633.540:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 04, 2023 18:56:39.286 [67612:66524:1104/185639.285:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Nov 04, 2023 18:57:45.190 [67612:66524:1104/185745.189:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 18:59:17.987 [67612:66524:1104/185917.986:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Nov 04, 2023 19:03:27.245 [67612:66524:1104/190327.245:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 19:39:01.477 [67612:66524:1104/193901.476:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Nov 04, 2023 19:39:01.976 [67612:8512:1104/193901.976:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2023 20:11:59.33 [67612:8512:1104/201159.032:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2023 20:12:19.982 [67612:66524:1104/201219.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 21:37:14.462 [67612:66524:1104/210746.296:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 04, 2023 21:37:16.157 [67612:66524:1104/213714.527:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Nov 04, 2023 21:37:53.496 [67612:66524:1104/213753.494:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Nov 04, 2023 21:38:57.606 [67612:63168:1104/213857.603:ERROR:device_event_log_impl.cc(225)] [21:38:57.574] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 04, 2023 21:39:11.747 [67612:66524:1104/213911.745:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 21:55:41.91 [67612:66524:1104/215541.088:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 04, 2023 22:09:00.615 [67612:66524:1104/220900.615:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Nov 04, 2023 22:09:26.759 [67612:66524:1104/220926.758:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Nov 04, 2023 22:10:44.321 [67612:66524:1104/221044.317:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 22:12:43.259 [67612:66524:1104/221243.258:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Nov 04, 2023 22:15:48.03 [67612:66524:1104/221548.001:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 04, 2023 22:22:09.557 [67612:66524:1104/222209.556:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Nov 05, 2023 01:21:30.699 [67612:66524:1105/012130.696:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Nov 05, 2023 02:46:35.578 NEW SESSION
+Nov 05, 2023 02:46:35.578 [73524:82180:1105/024635.576:ERROR:device_event_log_impl.cc(225)] [02:46:35.576] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Nov 05, 2023 05:32:01.46 NEW SESSION
+Nov 05, 2023 05:32:01.46 [87412:22756:1105/053200.943:ERROR:device_event_log_impl.cc(225)] [05:32:00.935] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 05, 2023 05:32:22.135 [87412:70188:1105/053222.134:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 05, 2023 05:32:47.575 [87412:70188:1105/053247.574:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Nov 05, 2023 05:34:04.598 [87412:70188:1105/053404.597:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Nov 05, 2023 05:35:25.497 [87412:70188:1105/053525.496:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Nov 05, 2023 06:11:09.224 [90520:91728:1105/061109.223:ERROR:device_event_log_impl.cc(225)] [06:11:09.223] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Nov 05, 2023 10:09:21.569 NEW SESSION
+Nov 05, 2023 10:09:21.569 [93104:93124:1105/100921.438:ERROR:device_event_log_impl.cc(225)] [10:09:21.438] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 05, 2023 10:13:32.578 [93104:80272:1105/101332.578:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 05, 2023 10:21:12.308 [93104:93124:1105/102112.307:ERROR:device_event_log_impl.cc(225)] [10:21:12.282] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 05, 2023 10:21:22.327 [93104:93124:1105/102122.326:ERROR:device_event_log_impl.cc(225)] [10:21:22.316] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)

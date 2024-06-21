@@ -1,0 +1,9 @@
+1697038545015	Rename type 'EmployeeService'
+1697038726718	Rename type 'EmployeeServiceImpl'
+1697039095162	Rename resource 'userlogin.jsp'
+1697045730208	Rename resource 'style2.jsp'
+1697045764727	Delete element
+1697047709631	Move 'adminNav.jsp' to 'webapp'
+1697169008845	Rename resource 'orglogin.jsp'
+1697183308499	Rename type 'ManagerRepositoty'
+1697195812093	Rename resource 'viewmanagers.jsp'
